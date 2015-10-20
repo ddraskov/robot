@@ -1,6 +1,6 @@
 <html>
    <head>
-		<meta charset="utf-8">
+		
 		<script src="vendor/jquery.js"></script>
 		<script src="dist/js/uikit.min.js"></script>
 		<script src="js/jquery-2.1.1.js"></script>
